@@ -82,8 +82,8 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 12000,
-		"karmatype": "Doom"
+		"price": 4000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "volcanicwinter",
@@ -216,6 +216,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 4000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -246,6 +251,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -273,6 +283,11 @@
 	{
 		"abr": "randominspire",
 		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -371,5 +386,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 74
+	"total": 77
 }
